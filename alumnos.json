@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "nombre": "Maria Alejandra",
+        "apellido": "Funez Perez",
+        "edad": 20,
+        "clase": "Programacion",
+        "nota": 100
+    },
+    {
+        "id": 2,
+        "nombre": "Andres David",
+        "apellido": "Mejia Castellanos",
+        "edad": 23,
+        "clase": "Programacion",
+        "nota": 50
+    },
+    {
+        "id": 3,
+        "nombre": "Daysi",
+        "apellido": "Rodriguez Padilla",
+        "edad": 24,
+        "clase": "Programacion",
+        "nota": 69
+    },
+    {
+        "id": 4,
+        "nombre": "Suny Gabriela",
+        "apellido": "Montes",
+        "edad": 23,
+        "clase": "Programacion",
+        "nota": 90
+    },
+    {
+        "id": 5,
+        "nombre": "Daniel Josue",
+        "apellido": "Reyes",
+        "edad": 26,
+        "clase": "Programacion",
+        "nota": 40
+    },
+    {
+        "id": 6,
+        "nombre": "Miguel Antonio",
+        "apellido": "Santos Escobar",
+        "edad": 20,
+        "clase": "Programacion",
+        "nota": 72
+    },
+    {
+        "id": 7,
+        "nombre": "Salome",
+        "apellido": "Carranza Perez",
+        "edad": 22,
+        "clase": "Programacion",
+        "nota": 60
+    },
+    {
+        "id": 8,
+        "nombre": "Eber Alexader",
+        "apellido": "Funez Betancourt",
+        "edad": 21,
+        "clase": "Programacion",
+        "nota": 80
+    },
+    {
+        "id": 9,
+        "nombre": "Julisa Angelica",
+        "apellido": "Amador Fernandez",
+        "edad": 20,
+        "clase": "Programacion",
+        "nota": 47
+    },
+    {
+        "id": 10,
+        "nombre": "Cesia Romelia",
+        "apellido": "Padilla Rosales",
+        "edad": 26,
+        "clase": "Programacion",
+        "nota": 20
+    },
+    {
+        "id": 11,
+        "nombre": "Eduardo Alejandro",
+        "apellido": "Sandoval Torres",
+        "edad": 20,
+        "clase": "Programacion",
+        "nota": 90
+    },
+    {
+        "id": 12,
+        "nombre": "Katherine Michelle",
+        "apellido": "Funez Perez",
+        "edad": 20,
+        "clase": "Programacion",
+        "nota": 70
+    }
+]
